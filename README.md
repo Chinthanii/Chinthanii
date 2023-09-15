@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer </h3>
 <h3 align="center">An undergraduate of Computer Science & Engineering, University of Moratuwa, Sri Lanka. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinthanii&label=Profile%20views&color=0e75b6&style=flat" alt="chinthanii" /> </p>
 
 
 - 👯 I’m looking to collaborate on **software engineering, full stack development, Web development, Mobile app development /**
