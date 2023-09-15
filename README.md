@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinthanii&show_icons=true&locale=en&layout=compact" alt="chinthanii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinthanii&show_icons=true&locale=en" alt="chinthanii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinthanii&" alt="chinthanii" /></p>
